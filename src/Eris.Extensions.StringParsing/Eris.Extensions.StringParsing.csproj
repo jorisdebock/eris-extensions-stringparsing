@@ -6,6 +6,10 @@
     <Company />
     <Product />
     <Description>String parsing extensions that wrap TryParse methods in order to use it in a more fluent way.</Description>
+    <PackageLicenseUrl>https://github.com/wazowsk1/eris-extensions-stringparsing/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/wazowsk1/eris-extensions-stringparsing</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/wazowsk1/eris-extensions-stringparsing</RepositoryUrl>
+    <PackageTags>Eris StringParsing</PackageTags>
   </PropertyGroup>
 
 </Project>
