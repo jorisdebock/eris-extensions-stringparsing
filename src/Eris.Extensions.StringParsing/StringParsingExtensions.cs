@@ -1,4 +1,6 @@
-﻿namespace System
+﻿using System;
+
+namespace Eris.Extensions.StringParsing
 {
     public static class StringParsingExtensions
     {
