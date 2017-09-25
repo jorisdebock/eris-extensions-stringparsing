@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Eris</Authors>
+    <Company />
+    <Product />
+    <Description>String parsing extensions that wrap TryParse methods in order to use it in a more fluent way.</Description>
+  </PropertyGroup>
+
+</Project>
