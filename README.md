@@ -1,4 +1,4 @@
-# StringParsing extensions
+# String parsing extensions
 
 String parsing extensions that wrap TryParse methods in order to use it in a more fluent way.
 
